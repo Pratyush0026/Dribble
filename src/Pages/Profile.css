@@ -1,0 +1,13 @@
+/* PlantCard.css */
+.plant-card {
+    transition: transform 0.3s ease;
+  }
+  
+  .plant-card:hover .plant-image {
+    transform: translateY(-20px);
+  }
+  /* Profile.css */
+.hover\:border-pink-500:hover {
+    border-color: pink;
+  }
+  
